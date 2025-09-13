@@ -1,10 +1,9 @@
-This project was entirely created by giving commands to Copilot running within Visual Studio Code.  There is no actual original work here.
+This project was entirely created by giving commands to little bit Copilot running because it show mistakes  within Visual Studio Code.  
 
 # Authentication Demo Project
 
 This project demonstrates authentication tokens in a full-stack application using HTML, CSS, JavaScript, Java (Spring Boot), MongoDB, OAuth, and React.js.  
 
-I used Copilot with the following prompt to get the basic code started.
 "Prompt for Authentication Token
 
 I want to create a new project that will demonstrate the use of authentication tokens in programs written with HTML, CSS, JavaScript, and Java with MongoDB, OAuth and React.js.
@@ -19,7 +18,7 @@ Login opens a new page that has two fields: userid and password. There are two b
 
 All of this should be built as a Visual Studio Code project that can also saved in a GitHub repository."
 
-After AI generated the basic code, I modified .........
+ I modified .........
 
 ## Features
 - Simple landing page with Register, Login, and Cancel buttons
